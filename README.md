@@ -2,7 +2,7 @@
 
 > A 4-digit digital frequency counter built entirely from logic ICs (no microcontroller, no firmware), designed in **KiCad** and simulated in **Proteus**. A Schmitt-trigger input stage conditions the signal, a 10 MHz oscillator generates the gate times with **auto-ranging**, decade counters count pulses during the gate, and 4511 latch/decoder/drivers show the result with the correct **decimal point** on four 7-segment displays. Tested from **1 Hz to 10 MHz**.
 
-![Status](https://img.shields.io/badge/status-tested%2C%20PCB%20in%20progress-brightgreen) ![KiCad](https://img.shields.io/badge/design-KiCad-blue) ![Proteus](https://img.shields.io/badge/simulation-Proteus-purple) ![Logic](https://img.shields.io/badge/logic-74xx%20%2F%204xxx-orange) ![License](https://img.shields.io/badge/license-MIT-lightgrey)
+![Status](https://img.shields.io/badge/status-tested%2C%20PCB%20in%20progress-brightgreen) ![KiCad](https://img.shields.io/badge/design-KiCad-blue) ![Proteus](https://img.shields.io/badge/simulation-Proteus-purple) ![Logic](https://img.shields.io/badge/logic-74xx%20%2F%204xxx-orange) ![License](https://img.shields.io/badge/license-CU-lightgrey)
 
 ## Overview
 
@@ -146,7 +146,7 @@ Tested across **1 Hz to 10 MHz** against a function generator. <!-- EDIT: name y
 
 ## License
 
-Distributed under the MIT License. See `LICENSE`. <!-- EDIT -->
+
 
 ## Author
 

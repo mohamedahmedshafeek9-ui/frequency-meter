@@ -1,3 +1,0 @@
-(sym_lib_table
-  (lib (name "Clock_Reconstruction") (type "KiCad") (uri "${KIPRJMOD}/Clock_Reconstruction.kicad_sym") (options "") (descr "Custom 74260 dual 5-input NOR symbol"))
-)
